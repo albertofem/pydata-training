@@ -1,0 +1,14 @@
+numpy
+matplotlib
+jupyter
+Pillow
+line_profiler
+dask[complete]
+toolz
+cloudpickle
+fastparquet
+graphviz
+snakeviz
+feather-format
+sqlalchemy
+cython

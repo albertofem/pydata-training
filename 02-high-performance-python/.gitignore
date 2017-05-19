@@ -1,0 +1,6 @@
+*.db
+__pycache__
+*.mspk
+*.parq
+*.h5
+*.feather

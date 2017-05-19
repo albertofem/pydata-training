@@ -1,0 +1,2 @@
+brew "hdf5"
+brew "graphviz"
