@@ -4,3 +4,4 @@ __pycache__
 *.parq
 *.h5
 *.feather
+*.prof
