@@ -1,2 +1,3 @@
+tap "homebrew/science"
 brew "hdf5"
 brew "graphviz"

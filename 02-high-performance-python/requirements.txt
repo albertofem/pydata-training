@@ -11,4 +11,4 @@ graphviz
 snakeviz
 feather-format
 sqlalchemy
-cython
+Cython

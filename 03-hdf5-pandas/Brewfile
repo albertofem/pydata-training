@@ -1,3 +1,4 @@
+tap "homebrew/science"
 brew "geos"
 brew "proj"
 brew "hdf5"

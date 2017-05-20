@@ -1,0 +1,3 @@
+-r ./01-pandas-workshop/requirements.txt
+-r ./02-high-performance-python/requirements.txt
+-r ./03-hdf5-pandas/requirements.txt
