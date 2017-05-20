@@ -6,3 +6,5 @@ cartopy
 matplotlib
 jupyter
 cython
+Pillow
+scipy
